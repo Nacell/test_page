@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .box {
-    background-image: url('/img/layer13.png');
+    background-image: url(/img/layer13.png);
     background-size: cover;
     max-height: 690px;
     color: #1b162f;
@@ -192,6 +192,5 @@ button.try {
     font-size: 13px;
 }
 .footer_text {
-    
     color: #fff;
 }
